@@ -95,7 +95,7 @@ echo -e $green" 53) The Fat Rat"
 echo -e $green" 54) IPGeolocation"
 echo -e $green" 55) exit"
 echo -e $white""
-read -p "[mrcakil@Tools]> " act;
+read -p "[PetruksTool]> " act;
 
 if [ $act = 01 ] || [ $act = 01 ]
 then
